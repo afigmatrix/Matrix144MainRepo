@@ -13,7 +13,7 @@ namespace ConsoleApp8
 
             string name = "Matriix";
 
-
+            bool isActive = true;
 
             #region MyRegion
 
