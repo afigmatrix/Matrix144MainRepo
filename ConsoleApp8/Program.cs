@@ -9,6 +9,7 @@ namespace ConsoleApp8
     {
         static async Task Main(string[] args)
         {
+            var a = 4;
 
             #region MyRegion
 
@@ -74,7 +75,7 @@ namespace ConsoleApp8
 
             #endregion
 
-            
+
         }
 
         public static async Task<int> GetValue()
