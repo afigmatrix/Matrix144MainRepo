@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Matrix\\P144\\ConsoleApp8\\ConsoleApp8\\ConsoleApp8.csproj",
+      "projectUniqueName": "C:\\Users\\mehdi\\Desktop\\Matrix144MainRepo\\ConsoleApp8\\ConsoleApp8.csproj",
       "projectName": "ConsoleApp8",
-      "projectPath": "D:\\Matrix\\P144\\ConsoleApp8\\ConsoleApp8\\ConsoleApp8.csproj",
+      "projectPath": "C:\\Users\\mehdi\\Desktop\\Matrix144MainRepo\\ConsoleApp8\\ConsoleApp8.csproj",
       "packagesPath": "C:\\Users\\mehdi\\.nuget\\packages\\",
-      "outputPath": "D:\\Matrix\\P144\\ConsoleApp8\\ConsoleApp8\\obj\\",
+      "outputPath": "C:\\Users\\mehdi\\Desktop\\Matrix144MainRepo\\ConsoleApp8\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

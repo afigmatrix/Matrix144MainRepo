@@ -11,6 +11,10 @@ namespace ConsoleApp8
         {
             var a = 4;
 
+
+
+
+
             #region MyRegion
 
             //Console.WriteLine(Thread.CurrentThread.ManagedThreadId);
